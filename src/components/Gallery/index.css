@@ -1,0 +1,28 @@
+.bg_container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.img_container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 50%;
+}
+.img {
+  width: 80%;
+}
+.hading {
+  color: #1e293b;
+  font-size: 20px;
+}
+.para {
+  color: #64748b;
+  font-size: 12px;
+}
+.ul_list {
+  display: flex;
+  list-style: none;
+  padding-left: 0;
+}

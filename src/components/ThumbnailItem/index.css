@@ -1,0 +1,15 @@
+.thumbnail {
+  height: 50px;
+  width: 50px;
+  margin: 8px;
+}
+.opacity {
+  opacity: 0.5;
+}
+.button {
+  height: 50px;
+  width: 50px;
+  margin: 8px;
+  padding: 0;
+  border-width: 0;
+}
